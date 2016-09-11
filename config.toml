@@ -2,9 +2,9 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Elder Folkman"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "eldfolktempeaz"
+disqusShortname = "www-elderfolkman-com"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-84023403-1"
 # Define the number of posts per page
 paginate = 10
 footnotereturnlinkcontents = "↩"
@@ -28,6 +28,8 @@ theme = "hugo-icarus-theme"
     # Format dates with Go's time formatting
     date_format = "2006-01-02"
 
+    searchurl = "www.elderfolkman.com"
+
 # Create custom menu entries by defining a label and a link for
 # them. Since you can also link posts, you've the option the
 # place the links before or after them.
@@ -43,6 +45,11 @@ theme = "hugo-icarus-theme"
     before = false
     label  = "Tags"
     link   = "tags/"
+
+[[params.menu]]
+    before = false
+    label  = "Contact Info"
+    link   = "2016/09/11/contact-info/"
 
 # Enter a link for the follow button on the left
 [params.profile]
