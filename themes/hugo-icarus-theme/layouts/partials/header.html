@@ -24,6 +24,7 @@
           {{ end }}
           {{ end }}
           <a class="main-nav-link" href="https://goo.gl/photos/4cDb5vuypZQES8oH9">Images</a>
+          <span id="clock" class="countdown"></span>
       </nav>
         <nav id="sub-nav">
           <div class="profile" id="profile-nav">
@@ -59,12 +60,13 @@
           <td><a class="main-nav-link" href="{{ .link  | absURL }}">{{ .label }}</a></td>
           {{ end }}
           {{ end }}
-          <td>
-          <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form">
+          <td><a class="main-nav-link" href="https://goo.gl/photos/4cDb5vuypZQES8oH9">Images</a></td>
+          <td><span id="clock2" class="countdown"></span></td>
+<!--           <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form">
           <input type="search" name="q" class="search-form-input" placeholder="Search">
           <input type="hidden" name="q" value="site:{{ .Site.BaseURL }}">
           </form>
-        </td>
+ -->        </td>
       </tr>
       </tbody>
     </table>

@@ -60,6 +60,7 @@ theme = "hugo-icarus-theme"
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
 # created automatically.
+    email           = "Tanner.folkman@myldsmail.net"
     github          = ""
     gitlab          = ""
     bitbucket       = ""

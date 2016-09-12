@@ -2,6 +2,10 @@
 <td><a href="//github.com/{{.}}" target="_blank" title="GitHub"><i class="fa fa-github"></i></a></td>
 {{ end }}
 
+{{ with .Site.Social.email}}
+<td><a href="mailto:{{.}}"><i class="fa fa-envelope"></i></a></td>
+{{ end }}
+
 {{ with .Site.Social.gitlab }}
 <td><a href="//gitlab.com/u/{{.}}" target="_blank" title="GitLab"><i class="fa fa-gitlab"></i></a></td>
 {{ end }}
