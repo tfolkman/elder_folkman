@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Elder Folkman"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "www-elderfolkman-com"
+disqus_url = "http://www.elderfolkman.com/"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = "UA-84023403-1"
 # Define the number of posts per page
