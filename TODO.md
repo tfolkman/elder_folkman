@@ -1,3 +1,1 @@
-1. Make sure comments working
-2. Make sure search working
-3. Make sure google analytics working
+2. Fix sharing - its using the base url

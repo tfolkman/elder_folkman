@@ -29,7 +29,7 @@ theme = "hugo-icarus-theme"
     # Format dates with Go's time formatting
     date_format = "2006-01-02"
 
-    searchurl = "www.elderfolkman.com"
+    searchurl = "www.elderfolkman.com/*"
 
 # Create custom menu entries by defining a label and a link for
 # them. Since you can also link posts, you've the option the
