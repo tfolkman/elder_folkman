@@ -11,6 +11,6 @@ Tanner.folkman@myldsmail.net
 
 ## Address:
 
-5405 South 19 Avenue Apt. 2037
+1182 E Jardin Dr.
 
-Phoenix, AZ 85041
+Casa Grande, AZ 85122
