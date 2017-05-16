@@ -11,14 +11,6 @@ Tanner.folkman@myldsmail.net
 
 ## Address:
 
-### Mission Home (For Packages):
-
-1871 E Del Rio
-
-Tempe, AZ 85282
-
-### House Address:
-
 855 N Dobson Rd
 
 Apt #1031
