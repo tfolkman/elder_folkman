@@ -9,10 +9,8 @@ menu = "Contact Info"
 
 Tanner.folkman@myldsmail.net
 
-## Address:
+## Mailing Address:
 
-855 N Dobson Rd
+PO Box 422
 
-Apt #1031
-
-Chandler, AZ 85224
+Gila Bend, AZ 85337
